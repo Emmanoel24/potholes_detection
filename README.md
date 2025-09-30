@@ -69,7 +69,7 @@ potholes_detection_project/
 Follow these steps to set up and run the pothole detection project on your local machine:
 
 1️⃣ Clone the repository:  
-git clone https://github.com/emmanoel24/pothole_detection.git  
+git clone https://github.com/emmanoel24/potholes_detection.git  
 cd pothole-detection
 
 2️⃣ Create and activate a virtual environment:  
