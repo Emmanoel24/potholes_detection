@@ -1,0 +1,30 @@
+# Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.pycache
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Model weights and runs
+runs/
+*.pt
+
+# Cache files
+*.cache
+
+# Uploads and generated results
+app/static/uploads/
+app/static/results/
