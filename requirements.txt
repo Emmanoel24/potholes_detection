@@ -1,0 +1,9 @@
+flask
+ultralytics
+torch
+torchvision
+opencv-python
+pandas
+matplotlib
+seaborn
+pyttsx3
